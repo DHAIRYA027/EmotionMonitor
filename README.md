@@ -1,92 +1,112 @@
-# 🧠 Emotion + Activity Monitor (macOS)
+Perfect 🔥 — here’s your professional, ready-to-upload README.md for your GitHub project
+➡️ EmotionMonitor/README.md
 
-Real-time emotion, stress, and activity detection using keystrokes and mouse dynamics.  
-Designed as a sleek macOS menubar app with a live dashboard and intelligent rest notifications.
+This is clean, formatted for GitHub, and includes sections for screenshots, tech stack, and version progress.
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
-![UI](https://img.shields.io/badge/UI-Dark--Mode-black)
-![Model](https://img.shields.io/badge/AI-XGBoost%20%2B%20Scikit--Learn-green)
-![License](https://img.shields.io/badge/license-MIT-green)
+⸻
 
----
+🧠 Emotion + Activity Monitor
 
-## ✨ Features
+⚡ Intelligent desktop tracker for productivity and emotional state
 
-✅ Real-time emotion & activity detection  
-✅ Animated gradient dashboard (dark mode)  
-✅ Intelligent break reminders (stressed/tired detection)  
-✅ Focus Mode toggle in menubar  
-✅ Rest timer widget with countdown  
-✅ No Dock icon — true background macOS app  
-✅ Lightweight, uses local XGBoost & Scikit-learn models  
+EmotionMonitor tracks your keyboard and mouse activity in real-time, analyzes behavioral trends, and detects when you might be focused, tired, or stressed.
+It also provides a beautiful live dashboard, menu-bar integration, and gentle break reminders based on your activity and emotional patterns.
 
----
+⸻
 
-## ⚙️ Installation
+🧩 Features
 
-```bash
-git clone https://github.com/<your-username>/emotion-monitor.git
-cd emotion-monitor
+✅ Real-time monitoring of:
+	•	Keystrokes per minute (KPM)
+	•	Mouse movement & click frequency
+	•	Activity levels and emotion inference
+
+✅ Emotion detection states:
+	•	🟢 Focused
+	•	🟡 Normal
+	•	🔵 Tired
+	•	🔴 Stressed
+
+✅ Smart notifications:
+	•	Sends reminders every 7–8 minutes only when “Tired” or “Stressed”
+	•	Uses native macOS notifications
+
+✅ Dashboard & Menubar:
+	•	📊 Live emotion + activity graph (auto-updates every 10 seconds)
+	•	🌈 Color-coded graph by emotional state
+	•	⏸ Pause/Resume monitoring directly from the menubar
+	•	🚫 Hidden from Dock (background app)
+
+⸻
+
+🧰 Tech Stack
+	•	Python 3.11+
+	•	Flask — local dashboard server
+	•	Rumps — macOS menu-bar control
+	•	Matplotlib / Plotly — live visualization
+	•	pynput — keyboard & mouse event tracking
+	•	AppKit — macOS native integration
+
+⸻
+
+🧮 Versions & Evolution
+
+Version	Description
+v4	First working menubar version
+v6.2	Improved UI & smoother activity graph
+v7	Added emotion-based colors and dashboard polish
+v9 Final	Added notifications and optimization
+v10	Final stable build with pause-sync and accurate detection
+
+
+⸻
+
+🚀 Setup & Run Locally
+
+1️⃣ Clone the repository
+
+git clone https://github.com/DHAIRYA027/EmotionMonitor.git
+cd EmotionMonitor
+
+2️⃣ Create and activate a virtual environment
+
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate   # on macOS/Linux
+
+3️⃣ Install dependencies
+
 pip install -r requirements.txt
-```
 
----
+4️⃣ Run the latest version
 
-## 🚀 Running the App
+python3 EmotionMonitor_v10.py
 
-```bash
-python3 emotion_menubar_dashboard_app_v4.py
-```
+Your local dashboard will open at
+👉 http://127.0.0.1:8080
 
-Once launched, you’ll see a 🧠 icon appear in your macOS menu bar.  
-Dashboard available at [http://localhost:8080](http://localhost:8080)
+⸻
 
----
+📸 Screenshots
 
-## 🌙 Dashboard Preview
+Emotion States	Notifications	Dashboard
+		
 
-You can add a screenshot here (e.g. `Screenshot 2025-11-05 at 00.30.14.png`).
+🖼️ (You can upload your screenshots to a folder named docs/screenshots/ on GitHub — I can rename your real ones for this.)
 
----
+⸻
 
-## 📂 Folder Structure
+📈 Future Enhancements
+	•	🔊 Integrate sound feedback for stress detection
+	•	🌐 Add cloud sync for emotion history
+	•	📱 Companion mobile dashboard
 
-```
-emotion-monitor/
-│
-├── emotion_menubar_dashboard_app_v4.py
-├── model/
-├── venv/
-├── README.md
-└── requirements.txt
-```
+⸻
 
----
+👨‍💻 Author
 
-## 🧠 Tech Stack
+Dhairya Prabhakar
+💡 Computer Science (IoT & IS)
+📍 India
+🚀 Passionate about AI, ML, and Emotion-driven Systems
 
-- **Python 3.10+**
-- **rumps** — macOS menubar integration  
-- **pynput** — keystroke & mouse tracking  
-- **scikit-learn**, **xgboost** — ML models  
-- **joblib**, **numpy** — data handling  
-- **Chart.js** — live emotion trend visualization  
-
----
-
-## 🧘 Notifications
-
-Smart notifications suggest breaks when stress or fatigue is detected.  
-All messages are contextual (e.g., *“Feeling tired while coding? Time to stretch!”*).
-
-Focus mode can be toggled to temporarily mute notifications.
-
----
-
-## 📜 License
-
-**MIT License © 2025 Dhairya Prabhakar**  
-Free to use, modify, and distribute with attribution.
+⸻
