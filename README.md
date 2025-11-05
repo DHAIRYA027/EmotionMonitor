@@ -1,10 +1,3 @@
-Perfect 🔥 — here’s your professional, ready-to-upload README.md for your GitHub project
-➡️ EmotionMonitor/README.md
-
-This is clean, formatted for GitHub, and includes sections for screenshots, tech stack, and version progress.
-
-⸻
-
 🧠 Emotion + Activity Monitor
 
 ⚡ Intelligent desktop tracker for productivity and emotional state
