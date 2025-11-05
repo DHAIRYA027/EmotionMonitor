@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🧠 Emotion + Activity Monitor Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      background: linear-gradient(135deg, #0d0d0d, #1a1a1d);
+      color: #f5f5f5;
+      font-family: "Inter", sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h2 {
+      margin-top: 10px;
+      font-weight: 600;
+    }
+
+    #stats {
+      margin: 15px 0;
+      font-size: 18px;
+    }
+
+    canvas {
+      width: 90vw !important;
+      height: 65vh !important;
+      border-radius: 12px;
+      background: #111;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+      margin-bottom: 20px;
+    }
+
+    .legend {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 10px;
+    }
+
+    .legend div {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 14px;
+    }
+
+    .color-box {
+      width: 16px;
+      height: 16px;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+
+<body>
+  <h2>🧠 Emotion + Activity Monitor</h2>
+  <div id="stats">Loading latest stats...</div>
+  <canvas id="emotionChart"></canvas>
+
+  <div class="legend">
+    <div><span class="color-box" style="background:#00ff66"></span> Focused</div>
+    <div><span class="color-box" style="background:#FFD700"></span> Normal</div>
+    <div><span class="color-box" style="background:#0096FF"></span> Tired</div>
+    <div><span class="color-box" style="background:#FF4040"></span> Stressed</div>
+  </div>
+
+  <script>
+    const ctx = document.getElementById("emotionChart").getContext("2d");
+
+    const chartData = {
+      labels: [],
+      datasets: [
+        {
+          label: "Keystrokes per Minute",
+          data: [],
+          borderColor: "#FFD700",
+          backgroundColor: "rgba(255,215,0,0.3)",
+          fill: true,
+          tension: 0.3,
+        },
+      ],
+    };
+
+    const chartOptions = {
+      animation: { duration: 900, easing: "easeInOutCubic" },
+      scales: {
+        x: { ticks: { color: "#aaa" } },
+        y: { ticks: { color: "#aaa" } },
+      },
+      plugins: { legend: { labels: { color: "#fff" } } },
+    };
+
+    const chart = new Chart(ctx, {
+      type: "line",
+      data: chartData,
+      options: chartOptions,
+    });
+
+    async function fetchStats() {
+      try {
+        const res = await fetch("/api/stats");
+        if (!res.ok) throw new Error("No live data source");
+        const data = await res.json();
+
+        document.getElementById("stats").innerHTML = `
+          Emotion: <b style="color:${data.color}">${data.emotion}</b> (${data.confidence}%)
+          | KPM: ${data.kpm} | Mouse: ${data.mouse} | Clicks: ${data.clicks}
+        `;
+
+        if (chartData.labels.length > 40) {
+          chartData.labels.shift();
+          chartData.datasets[0].data.shift();
+        }
+
+        chartData.labels.push(data.timestamp);
+        chartData.datasets[0].data.push(data.kpm);
+        chartData.datasets[0].borderColor = data.color;
+        chartData.datasets[0].backgroundColor = data.color + "40";
+
+        chart.update();
+      } catch (err) {
+        document.getElementById("stats").innerText =
+          "⚠️ Waiting for live connection...";
+      }
+    }
+
+    setInterval(fetchStats, 10000);
+    fetchStats();
+  </script>
+</body>
+</html>

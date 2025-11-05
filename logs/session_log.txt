@@ -1,0 +1,303 @@
+[19:11:49] Emotion=Focused (70%%), KPM=136, Mouse=8728, Clicks=28
+[19:12:04] Emotion=Normal (82%%), KPM=59, Mouse=16057, Clicks=26
+[19:12:19] Emotion=Focused (84%%), KPM=214, Mouse=7939, Clicks=49
+[19:12:34] Emotion=Normal (80%%), KPM=84, Mouse=14770, Clicks=47
+[19:12:49] Emotion=Focused (85%%), KPM=254, Mouse=14688, Clicks=33
+[19:13:04] Emotion=Normal (64%%), KPM=151, Mouse=5163, Clicks=21
+[19:13:19] Emotion=Tired (94%%), KPM=169, Mouse=19465, Clicks=39
+[19:13:34] Emotion=Normal (71%%), KPM=240, Mouse=17043, Clicks=29
+[19:13:49] Emotion=Tired (66%%), KPM=227, Mouse=11950, Clicks=29
+[19:14:04] Emotion=Normal (68%%), KPM=72, Mouse=15006, Clicks=32
+[19:14:19] Emotion=Focused (98%%), KPM=55, Mouse=5918, Clicks=42
+[19:14:44] Emotion=Focused (98%%), KPM=181, Mouse=3868, Clicks=23
+[19:14:59] Emotion=Focused (85%%), KPM=216, Mouse=15562, Clicks=27
+[19:15:14] Emotion=Stressed (66%%), KPM=293, Mouse=2983, Clicks=25
+[19:15:29] Emotion=Normal (78%%), KPM=300, Mouse=12638, Clicks=31
+[19:15:44] Emotion=Focused (81%%), KPM=137, Mouse=5102, Clicks=34
+[19:15:59] Emotion=Focused (84%%), KPM=172, Mouse=4936, Clicks=44
+[19:16:14] Emotion=Focused (99%%), KPM=86, Mouse=10955, Clicks=11
+[19:16:29] Emotion=Normal (69%%), KPM=226, Mouse=7307, Clicks=23
+[19:16:44] Emotion=Normal (60%%), KPM=264, Mouse=18171, Clicks=38
+[19:16:59] Emotion=Normal (76%%), KPM=100, Mouse=13592, Clicks=39
+[19:17:14] Emotion=Tired (85%%), KPM=88, Mouse=4352, Clicks=46
+[19:17:29] Emotion=Focused (92%%), KPM=258, Mouse=16160, Clicks=27
+[19:17:44] Emotion=Normal (74%%), KPM=75, Mouse=8746, Clicks=30
+[19:17:59] Emotion=Normal (71%%), KPM=192, Mouse=10836, Clicks=24
+[19:18:14] Emotion=Normal (82%%), KPM=212, Mouse=7040, Clicks=17
+[19:18:29] Emotion=Normal (98%%), KPM=244, Mouse=6281, Clicks=17
+[19:18:44] Emotion=Focused (67%%), KPM=219, Mouse=8557, Clicks=33
+[19:18:59] Emotion=Focused (60%%), KPM=244, Mouse=10613, Clicks=37
+[19:19:14] Emotion=Focused (77%%), KPM=276, Mouse=6095, Clicks=13
+[19:19:29] Emotion=Normal (68%%), KPM=246, Mouse=9088, Clicks=42
+[19:19:44] Emotion=Normal (92%%), KPM=122, Mouse=17609, Clicks=45
+[19:19:59] Emotion=Stressed (60%%), KPM=112, Mouse=12542, Clicks=43
+[19:25:26] Stressed(84%) KPM=264 Mouse=17594 Clicks=40
+[19:30:56] Focused (74%) | KPM=265 | Mouse=5847 | Clicks=40
+[19:36:17] Normal (97%) | KPM=228 | Mouse=14506 | Clicks=10
+[19:36:32] Normal (88%) | KPM=52 | Mouse=4196 | Clicks=16
+[19:36:47] Stressed (74%) | KPM=216 | Mouse=19163 | Clicks=16
+[19:37:02] Focused (81%) | KPM=124 | Mouse=17022 | Clicks=10
+[19:37:17] Tired (99%) | KPM=69 | Mouse=17301 | Clicks=15
+[19:37:32] Stressed (93%) | KPM=290 | Mouse=15108 | Clicks=29
+[19:37:47] Focused (91%) | KPM=184 | Mouse=18157 | Clicks=16
+[19:38:02] Focused (90%) | KPM=252 | Mouse=18861 | Clicks=23
+[19:38:17] Focused (98%) | KPM=275 | Mouse=18079 | Clicks=29
+[19:38:32] Normal (94%) | KPM=118 | Mouse=4454 | Clicks=31
+[19:38:47] Focused (91%) | KPM=94 | Mouse=11130 | Clicks=49
+[19:39:02] Normal (70%) | KPM=109 | Mouse=15077 | Clicks=27
+[19:39:17] Focused (69%) | KPM=261 | Mouse=10941 | Clicks=25
+[19:39:32] Stressed (91%) | KPM=276 | Mouse=11786 | Clicks=40
+[19:39:47] Focused (64%) | KPM=152 | Mouse=15386 | Clicks=26
+[19:40:02] Stressed (99%) | KPM=91 | Mouse=11391 | Clicks=13
+[19:40:17] Focused (90%) | KPM=237 | Mouse=2454 | Clicks=10
+[19:40:32] Tired (76%) | KPM=254 | Mouse=17558 | Clicks=10
+[19:40:47] Focused (79%) | KPM=150 | Mouse=3375 | Clicks=16
+[19:48:48] Normal (100%) | KPM=229 | Mouse=3133 | Clicks=23
+[19:49:03] Normal (72%) | KPM=232 | Mouse=7784 | Clicks=25
+[19:49:18] Tired (97%) | KPM=274 | Mouse=4474 | Clicks=36
+[19:49:33] Normal (84%) | KPM=196 | Mouse=2274 | Clicks=12
+[19:49:48] Normal (74%) | KPM=153 | Mouse=17727 | Clicks=21
+[19:50:03] Tired (84%) | KPM=263 | Mouse=9894 | Clicks=42
+[19:50:18] Tired (87%) | KPM=152 | Mouse=16220 | Clicks=24
+[19:50:33] Normal (99%) | KPM=299 | Mouse=19493 | Clicks=19
+[19:50:48] Tired (95%) | KPM=179 | Mouse=5457 | Clicks=31
+[19:51:03] Tired (75%) | KPM=114 | Mouse=18225 | Clicks=18
+[19:51:18] Normal (66%) | KPM=75 | Mouse=14061 | Clicks=20
+[19:51:33] Stressed (97%) | KPM=51 | Mouse=3890 | Clicks=49
+[19:51:48] Normal (97%) | KPM=182 | Mouse=12282 | Clicks=47
+[19:52:03] Focused (82%) | KPM=75 | Mouse=14303 | Clicks=33
+[19:52:18] Focused (78%) | KPM=270 | Mouse=4648 | Clicks=46
+[19:52:33] Normal (99%) | KPM=146 | Mouse=16529 | Clicks=17
+[19:52:48] Tired (80%) | KPM=166 | Mouse=16466 | Clicks=23
+[19:53:03] Normal (99%) | KPM=293 | Mouse=14633 | Clicks=31
+[19:53:18] Focused (68%) | KPM=74 | Mouse=5577 | Clicks=20
+[19:53:33] Normal (98%) | KPM=118 | Mouse=11158 | Clicks=47
+[19:53:48] Stressed (86%) | KPM=236 | Mouse=6818 | Clicks=30
+[19:54:03] Focused (79%) | KPM=108 | Mouse=2732 | Clicks=29
+[19:54:18] Tired (89%) | KPM=239 | Mouse=13312 | Clicks=43
+[19:54:33] Normal (87%) | KPM=150 | Mouse=9342 | Clicks=12
+[19:54:48] Normal (87%) | KPM=277 | Mouse=8069 | Clicks=19
+[19:55:03] Tired (64%) | KPM=199 | Mouse=18529 | Clicks=39
+[19:55:18] Tired (75%) | KPM=281 | Mouse=16412 | Clicks=11
+[19:55:33] Focused (85%) | KPM=62 | Mouse=4029 | Clicks=20
+[19:55:48] Normal (83%) | KPM=154 | Mouse=18430 | Clicks=48
+[19:56:03] Normal (83%) | KPM=259 | Mouse=13874 | Clicks=43
+[19:56:18] Focused (83%) | KPM=257 | Mouse=7123 | Clicks=48
+[19:56:33] Focused (66%) | KPM=62 | Mouse=7898 | Clicks=15
+[19:56:48] Normal (81%) | KPM=200 | Mouse=2473 | Clicks=44
+[19:57:03] Tired (100%) | KPM=263 | Mouse=19926 | Clicks=50
+[19:57:18] Focused (96%) | KPM=225 | Mouse=9456 | Clicks=41
+[19:57:33] Normal (86%) | KPM=233 | Mouse=7190 | Clicks=29
+[19:57:48] Focused (80%) | KPM=290 | Mouse=19747 | Clicks=49
+[19:58:03] Focused (89%) | KPM=177 | Mouse=10971 | Clicks=28
+[19:58:18] Stressed (100%) | KPM=105 | Mouse=13233 | Clicks=12
+[19:58:33] Normal (90%) | KPM=204 | Mouse=7986 | Clicks=17
+[19:58:48] Normal (71%) | KPM=294 | Mouse=19830 | Clicks=22
+[19:59:03] Focused (72%) | KPM=183 | Mouse=17693 | Clicks=17
+[19:59:18] Stressed (91%) | KPM=296 | Mouse=14731 | Clicks=50
+[19:59:33] Normal (79%) | KPM=270 | Mouse=16983 | Clicks=50
+[19:59:48] Normal (93%) | KPM=179 | Mouse=7696 | Clicks=50
+[20:00:03] Tired (92%) | KPM=145 | Mouse=11901 | Clicks=43
+[20:00:18] Tired (82%) | KPM=55 | Mouse=4303 | Clicks=29
+[20:00:33] Tired (81%) | KPM=216 | Mouse=15914 | Clicks=13
+[20:00:48] Normal (99%) | KPM=118 | Mouse=7705 | Clicks=29
+[20:01:03] Focused (99%) | KPM=124 | Mouse=4601 | Clicks=45
+[20:01:18] Focused (76%) | KPM=203 | Mouse=15593 | Clicks=23
+[20:01:33] Normal (97%) | KPM=272 | Mouse=18150 | Clicks=28
+[20:01:48] Normal (85%) | KPM=256 | Mouse=12202 | Clicks=14
+[20:02:03] Normal (85%) | KPM=258 | Mouse=19257 | Clicks=24
+[20:02:18] Normal (60%) | KPM=73 | Mouse=7860 | Clicks=38
+[20:02:33] Normal (62%) | KPM=240 | Mouse=10920 | Clicks=38
+[20:02:48] Focused (80%) | KPM=214 | Mouse=19984 | Clicks=32
+[20:03:03] Stressed (97%) | KPM=106 | Mouse=5682 | Clicks=19
+[20:03:18] Tired (93%) | KPM=102 | Mouse=14885 | Clicks=33
+[20:03:33] Tired (65%) | KPM=275 | Mouse=16661 | Clicks=26
+[20:04:14] Stressed (84%) | KPM=70 | Mouse=11187 | Clicks=19
+[20:04:29] Stressed (82%) | KPM=38 | Mouse=9526 | Clicks=7
+[20:04:44] Focused (83%) | KPM=261 | Mouse=4087 | Clicks=48
+[20:04:59] Focused (98%) | KPM=269 | Mouse=6109 | Clicks=67
+[20:05:14] Focused (94%) | KPM=234 | Mouse=5440 | Clicks=77
+[20:05:29] Tired (83%) | KPM=7 | Mouse=802 | Clicks=3
+[20:05:44] Tired (78%) | KPM=16 | Mouse=1329 | Clicks=7
+[20:05:59] Tired (88%) | KPM=14 | Mouse=1544 | Clicks=0
+[20:06:14] Focused (87%) | KPM=239 | Mouse=4829 | Clicks=57
+[20:06:29] Stressed (90%) | KPM=43 | Mouse=15735 | Clicks=10
+[20:06:44] Stressed (76%) | KPM=51 | Mouse=7967 | Clicks=7
+[20:06:59] Focused (93%) | KPM=242 | Mouse=4197 | Clicks=64
+[20:07:14] Stressed (77%) | KPM=89 | Mouse=12696 | Clicks=14
+[20:07:29] Stressed (97%) | KPM=54 | Mouse=15586 | Clicks=19
+[20:07:44] Stressed (80%) | KPM=75 | Mouse=15986 | Clicks=21
+[20:07:59] Focused (76%) | KPM=223 | Mouse=7899 | Clicks=62
+[20:08:14] Focused (92%) | KPM=239 | Mouse=5919 | Clicks=65
+[20:08:59] Calibrating... (0%) | KPM=55 | Mouse=12296 | Clicks=8
+[20:13:40] Calibrating... (0%) | KPM=249 | Mouse=5703 | Clicks=73
+[20:13:55] Calibrating... (0%) | KPM=78 | Mouse=14285 | Clicks=8
+[20:14:10] Calibrating... (0%) | KPM=190 | Mouse=4389 | Clicks=76
+[20:14:25] Calibrating... (0%) | KPM=1 | Mouse=218 | Clicks=5
+[20:14:40] Calibrating... (0%) | KPM=73 | Mouse=9729 | Clicks=19
+[20:14:55] Calibrating... (0%) | KPM=74 | Mouse=12313 | Clicks=14
+[20:15:10] Calibrating... (0%) | KPM=235 | Mouse=6534 | Clicks=58
+[20:15:25] Calibrating... (0%) | KPM=280 | Mouse=7972 | Clicks=67
+[20:15:40] Calibrating... (0%) | KPM=228 | Mouse=5439 | Clicks=31
+[20:15:55] Calibrating... (0%) | KPM=20 | Mouse=2900 | Clicks=0
+[20:16:10] Calibrating... (0%) | KPM=217 | Mouse=7344 | Clicks=43
+[21:35:56] Calibrating...(0%) KPM=193 Mouse=4122 Clicks=52
+[21:36:26] Calibrating...(0%) KPM=241 Mouse=5718 Clicks=80
+[21:36:41] Calibrating...(0%) KPM=61 Mouse=7743 Clicks=15
+[21:36:56] Calibrating...(0%) KPM=275 Mouse=5690 Clicks=33
+[21:37:11] Calibrating...(0%) KPM=253 Mouse=7154 Clicks=74
+[21:37:26] Calibrating...(0%) KPM=238 Mouse=6005 Clicks=73
+[21:37:41] Calibrating...(0%) KPM=277 Mouse=6115 Clicks=32
+[21:37:56] Calibrating...(0%) KPM=8 Mouse=3726 Clicks=8
+[21:38:11] Calibrating...(0%) KPM=258 Mouse=6077 Clicks=68
+[21:38:26] Calibrating...(0%) KPM=10 Mouse=863 Clicks=4
+[21:38:41] Calibrating...(0%) KPM=33 Mouse=9808 Clicks=14
+[21:38:56] Calibrating...(0%) KPM=11 Mouse=3765 Clicks=5
+[21:39:11] Tired(79%) KPM=15 Mouse=2362 Clicks=7
+[21:39:26] Focused(86%) KPM=240 Mouse=5756 Clicks=68
+[21:39:41] Focused(95%) KPM=187 Mouse=4564 Clicks=70
+[21:39:56] Focused(96%) KPM=194 Mouse=6470 Clicks=32
+[21:40:11] Focused(77%) KPM=263 Mouse=5524 Clicks=42
+[21:40:26] Stressed(80%) KPM=62 Mouse=10793 Clicks=12
+[21:40:41] Tired(79%) KPM=6 Mouse=1121 Clicks=5
+[21:40:56] Focused(94%) KPM=234 Mouse=7665 Clicks=68
+[21:41:11] Stressed(78%) KPM=56 Mouse=12794 Clicks=14
+[21:41:26] Focused(98%) KPM=180 Mouse=5156 Clicks=53
+[21:41:41] Normal(92%) KPM=72 Mouse=7843 Clicks=13
+[21:41:56] Focused(91%) KPM=251 Mouse=5979 Clicks=54
+[21:42:11] Tired(82%) KPM=17 Mouse=2580 Clicks=6
+[21:42:26] Tired(97%) KPM=8 Mouse=590 Clicks=0
+[21:42:41] Focused(75%) KPM=266 Mouse=6171 Clicks=42
+[21:42:56] Normal(96%) KPM=67 Mouse=15009 Clicks=13
+[21:43:11] Normal(87%) KPM=74 Mouse=13674 Clicks=9
+[21:43:26] Focused(93%) KPM=183 Mouse=4136 Clicks=47
+[21:43:41] Focused(96%) KPM=223 Mouse=6735 Clicks=69
+[21:43:56] Normal(81%) KPM=83 Mouse=8815 Clicks=19
+[21:44:11] Normal(89%) KPM=90 Mouse=10310 Clicks=9
+[21:44:26] Tired(78%) KPM=8 Mouse=206 Clicks=5
+[21:44:41] Focused(77%) KPM=198 Mouse=5450 Clicks=63
+[21:44:56] Focused(87%) KPM=182 Mouse=4824 Clicks=66
+[21:45:11] Stressed(94%) KPM=59 Mouse=7887 Clicks=16
+[21:45:26] Normal(89%) KPM=71 Mouse=7197 Clicks=14
+[21:45:41] Tired(81%) KPM=7 Mouse=2060 Clicks=6
+[21:45:56] Normal(87%) KPM=65 Mouse=15434 Clicks=15
+[21:46:11] Normal(80%) KPM=49 Mouse=15988 Clicks=15
+[21:46:26] Focused(88%) KPM=187 Mouse=6037 Clicks=49
+[21:46:41] Focused(77%) KPM=193 Mouse=5055 Clicks=34
+[21:46:56] Focused(81%) KPM=187 Mouse=6661 Clicks=48
+[21:47:11] Normal(82%) KPM=83 Mouse=11841 Clicks=22
+[21:47:26] Tired(97%) KPM=25 Mouse=1875 Clicks=4
+[21:47:41] Stressed(79%) KPM=36 Mouse=12059 Clicks=17
+[21:47:56] Tired(87%) KPM=9 Mouse=1546 Clicks=5
+[21:48:11] Focused(93%) KPM=265 Mouse=4750 Clicks=65
+[21:48:26] Focused(78%) KPM=264 Mouse=7906 Clicks=49
+[21:48:41] Focused(84%) KPM=242 Mouse=5436 Clicks=76
+[21:48:56] Normal(95%) KPM=76 Mouse=13713 Clicks=14
+[21:49:11] Stressed(83%) KPM=40 Mouse=10442 Clicks=13
+[21:49:26] Tired(97%) KPM=0 Mouse=425 Clicks=3
+[21:49:41] Normal(82%) KPM=58 Mouse=15588 Clicks=16
+[21:49:56] Focused(93%) KPM=260 Mouse=7110 Clicks=35
+[21:50:11] Focused(79%) KPM=201 Mouse=7239 Clicks=53
+[21:50:26] Normal(97%) KPM=75 Mouse=11123 Clicks=12
+[21:50:41] Focused(87%) KPM=182 Mouse=4080 Clicks=46
+[21:50:56] Focused(79%) KPM=202 Mouse=7245 Clicks=48
+[21:51:11] Focused(78%) KPM=192 Mouse=6084 Clicks=39
+[21:51:26] Normal(97%) KPM=70 Mouse=7518 Clicks=17
+[21:51:41] Tired(94%) KPM=22 Mouse=3187 Clicks=9
+[21:51:56] Tired(82%) KPM=9 Mouse=993 Clicks=1
+[21:52:11] Focused(90%) KPM=229 Mouse=7700 Clicks=31
+[21:52:26] Focused(87%) KPM=202 Mouse=4325 Clicks=51
+[21:52:41] Focused(78%) KPM=226 Mouse=6347 Clicks=45
+[21:52:56] Focused(97%) KPM=201 Mouse=4392 Clicks=66
+[21:53:11] Tired(93%) KPM=10 Mouse=700 Clicks=2
+[21:53:26] Normal(84%) KPM=70 Mouse=10443 Clicks=5
+[21:53:41] Normal(82%) KPM=89 Mouse=12959 Clicks=10
+[21:53:56] Tired(79%) KPM=5 Mouse=2502 Clicks=2
+[21:54:11] Focused(89%) KPM=246 Mouse=5121 Clicks=53
+[21:54:26] Focused(98%) KPM=206 Mouse=5465 Clicks=39
+[21:54:41] Focused(89%) KPM=234 Mouse=5109 Clicks=54
+[21:54:56] Tired(91%) KPM=5 Mouse=116 Clicks=4
+[21:55:11] Stressed(89%) KPM=6 Mouse=3972 Clicks=7
+[21:55:26] Focused(87%) KPM=210 Mouse=5686 Clicks=57
+[21:55:41] Tired(96%) KPM=0 Mouse=994 Clicks=5
+[21:55:56] Tired(84%) KPM=7 Mouse=921 Clicks=5
+[21:56:11] Focused(85%) KPM=216 Mouse=6275 Clicks=37
+[21:56:26] Normal(90%) KPM=79 Mouse=7901 Clicks=15
+[21:56:41] Stressed(76%) KPM=51 Mouse=13254 Clicks=11
+[21:56:56] Normal(91%) KPM=71 Mouse=13427 Clicks=16
+[21:57:11] Normal(80%) KPM=84 Mouse=13700 Clicks=11
+[21:57:26] Normal(85%) KPM=59 Mouse=9081 Clicks=8
+[21:57:41] Tired(76%) KPM=10 Mouse=3024 Clicks=8
+[21:57:56] Stressed(80%) KPM=40 Mouse=15252 Clicks=17
+[21:58:11] Focused(77%) KPM=237 Mouse=6465 Clicks=61
+[21:58:26] Stressed(79%) KPM=41 Mouse=7088 Clicks=13
+[21:58:41] Focused(84%) KPM=187 Mouse=4402 Clicks=51
+[21:58:56] Tired(92%) KPM=25 Mouse=3175 Clicks=8
+[21:59:11] Tired(91%) KPM=15 Mouse=1268 Clicks=6
+[21:59:26] Normal(96%) KPM=50 Mouse=7861 Clicks=22
+[21:59:41] Focused(89%) KPM=267 Mouse=5944 Clicks=60
+[21:59:56] Focused(76%) KPM=272 Mouse=6059 Clicks=78
+[22:00:11] Normal(86%) KPM=63 Mouse=9881 Clicks=17
+[22:00:26] Focused(87%) KPM=212 Mouse=5815 Clicks=56
+[22:00:41] Focused(98%) KPM=190 Mouse=5801 Clicks=75
+[22:00:56] Tired(78%) KPM=1 Mouse=771 Clicks=4
+[22:01:11] Focused(89%) KPM=265 Mouse=7111 Clicks=56
+[22:01:26] Stressed(91%) KPM=30 Mouse=10336 Clicks=16
+[22:01:41] Tired(81%) KPM=9 Mouse=277 Clicks=4
+[22:01:56] Focused(80%) KPM=260 Mouse=5716 Clicks=41
+[22:02:11] Focused(96%) KPM=201 Mouse=5211 Clicks=63
+[22:02:26] Focused(94%) KPM=192 Mouse=6059 Clicks=75
+[22:02:41] Tired(91%) KPM=16 Mouse=1122 Clicks=10
+[22:02:56] Normal(98%) KPM=87 Mouse=13522 Clicks=25
+[22:03:11] Focused(81%) KPM=186 Mouse=7370 Clicks=46
+[22:03:26] Focused(87%) KPM=241 Mouse=5399 Clicks=55
+[22:03:41] Focused(96%) KPM=245 Mouse=6211 Clicks=67
+[22:03:56] Focused(80%) KPM=257 Mouse=4460 Clicks=44
+[22:04:11] Focused(87%) KPM=205 Mouse=4973 Clicks=77
+[22:04:26] Stressed(75%) KPM=51 Mouse=9163 Clicks=23
+[22:04:41] Tired(92%) KPM=1 Mouse=13 Clicks=0
+[22:04:56] Stressed(80%) KPM=42 Mouse=9351 Clicks=23
+[22:05:11] Stressed(96%) KPM=59 Mouse=12682 Clicks=25
+[22:05:26] Normal(78%) KPM=66 Mouse=7699 Clicks=6
+[22:05:41] Focused(90%) KPM=280 Mouse=7985 Clicks=66
+[22:05:56] Tired(90%) KPM=22 Mouse=1469 Clicks=3
+[22:06:11] Tired(92%) KPM=22 Mouse=2365 Clicks=5
+[22:06:26] Normal(80%) KPM=84 Mouse=9794 Clicks=18
+[22:06:41] Focused(75%) KPM=200 Mouse=6766 Clicks=46
+[22:06:56] Normal(86%) KPM=61 Mouse=11998 Clicks=25
+[22:07:11] Focused(98%) KPM=232 Mouse=7951 Clicks=70
+[22:07:26] Tired(90%) KPM=25 Mouse=1974 Clicks=6
+[22:07:41] Focused(94%) KPM=250 Mouse=4334 Clicks=63
+[22:07:56] Focused(80%) KPM=228 Mouse=6072 Clicks=49
+[22:08:11] Focused(88%) KPM=246 Mouse=7381 Clicks=55
+[22:08:26] Focused(75%) KPM=264 Mouse=5617 Clicks=70
+[22:08:41] Focused(83%) KPM=220 Mouse=7420 Clicks=49
+[22:08:56] Stressed(93%) KPM=41 Mouse=9029 Clicks=6
+[22:09:11] Tired(86%) KPM=10 Mouse=1231 Clicks=9
+[22:09:26] Focused(86%) KPM=211 Mouse=5390 Clicks=75
+[22:09:41] Stressed(77%) KPM=50 Mouse=13057 Clicks=22
+[22:09:56] Focused(78%) KPM=197 Mouse=6925 Clicks=46
+[22:10:11] Tired(76%) KPM=8 Mouse=503 Clicks=2
+[22:10:26] Stressed(94%) KPM=61 Mouse=9644 Clicks=18
+[22:10:41] Focused(87%) KPM=235 Mouse=5315 Clicks=79
+[22:10:56] Focused(81%) KPM=222 Mouse=6909 Clicks=74
+[22:11:11] Focused(93%) KPM=184 Mouse=5836 Clicks=50
+[22:11:26] Stressed(89%) KPM=50 Mouse=11483 Clicks=8
+[22:11:41] Focused(92%) KPM=230 Mouse=7860 Clicks=80
+[22:11:56] Normal(96%) KPM=78 Mouse=14207 Clicks=24
+[22:12:11] Focused(80%) KPM=275 Mouse=5623 Clicks=49
+[22:12:26] Normal(98%) KPM=81 Mouse=8946 Clicks=9
+[22:12:41] Stressed(95%) KPM=31 Mouse=11836 Clicks=14
+[22:12:56] Normal(92%) KPM=78 Mouse=14809 Clicks=15
+[22:13:11] Focused(81%) KPM=180 Mouse=6111 Clicks=52
+[22:13:26] Normal(79%) KPM=67 Mouse=7340 Clicks=21
+[22:13:41] Focused(83%) KPM=268 Mouse=6934 Clicks=55
+[22:13:56] Normal(92%) KPM=74 Mouse=10862 Clicks=19
+[22:14:11] Tired(83%) KPM=14 Mouse=3438 Clicks=6
+[22:14:26] Focused(78%) KPM=271 Mouse=6199 Clicks=38
+[22:14:41] Focused(87%) KPM=217 Mouse=7950 Clicks=77
+[22:14:56] Stressed(92%) KPM=44 Mouse=13270 Clicks=22
+[22:15:11] Focused(96%) KPM=193 Mouse=6910 Clicks=41
+[22:15:26] Tired(82%) KPM=3 Mouse=235 Clicks=1
+[22:15:41] Normal(76%) KPM=73 Mouse=14131 Clicks=9
+[22:15:56] Focused(89%) KPM=200 Mouse=4402 Clicks=60

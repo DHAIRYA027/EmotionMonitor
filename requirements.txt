@@ -1,0 +1,7 @@
+rumps
+pynput
+scikit-learn
+xgboost
+joblib
+numpy
+AppKit; sys_platform == 'darwin'
